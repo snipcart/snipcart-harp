@@ -1,0 +1,13 @@
+div.product-details
+  img(src=image, height="120px", width="120px")
+  div.product-description 
+    p #{ description } 
+    
+    button.snipcart-add-item.waves-effect.waves-light.btn(
+      data-item-name=name
+      data-item-id=id
+      data-item-image=image 
+      data-item-url=url
+      data-item-price=price
+      data-item-description=description)
+      p Buy it for #{ price }! 

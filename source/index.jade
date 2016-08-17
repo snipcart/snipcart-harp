@@ -1,0 +1,7 @@
+h2 Harp store powered by Snipcart
+
+!= partial("./snipcart/_snipcart.jade")
+
+div.products
+  for product in public.products._data
+    != partial("./products/_product", product)

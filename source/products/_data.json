@@ -1,0 +1,26 @@
+{
+  "product1": {
+    "name": "Ski Goggles",
+    "id": "1",
+    "image": "https://snipcartweb-10f3.kxcdn.com/media/9896/harpjs-shopping-cart-ski-goggles.jpg",
+    "description": "Clear lens, perfect for night runs in the park.",
+    "url": "/",
+    "price": "120.00"
+  },
+  "product2": {
+    "name": "Lightweight Helmet",
+    "id": "2",
+    "description": "Subtle style with secure, tested shock protection.",
+    "image": "https://snipcartweb-10f3.kxcdn.com/media/9897/harpjs-shopping-cart-ski-helmet.jpg",
+    "url": "/",
+    "price": "100.00"
+  },
+  "product3": {
+    "name": "Pipe Gloves",
+    "id": "3",
+    "description": "Lean, slick and grippy as can be.",
+    "image": "https://snipcartweb-10f3.kxcdn.com/media/9899/harpjs-shopping-cart-pipe-gloves.jpg",
+    "url": "/",
+    "price": "80.00"
+  }
+}
